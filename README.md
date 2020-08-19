@@ -1,6 +1,6 @@
 # Welcome to Altimetrik!
 
-This is an ecom backend application API document
+This is a backend application API document
 # Pre-requisites
 >MySql Database
 >Create a database named **flight_booking**
